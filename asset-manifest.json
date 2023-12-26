@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoshanBhalaji/RandomPassword-Using-React/static/css/main.1b5f088b.css",
+    "main.js": "/RoshanBhalaji/RandomPassword-Using-React/static/js/main.65aa655f.js",
+    "static/js/787.9f2bf4a8.chunk.js": "/RoshanBhalaji/RandomPassword-Using-React/static/js/787.9f2bf4a8.chunk.js",
+    "index.html": "/RoshanBhalaji/RandomPassword-Using-React/index.html",
+    "main.1b5f088b.css.map": "/RoshanBhalaji/RandomPassword-Using-React/static/css/main.1b5f088b.css.map",
+    "main.65aa655f.js.map": "/RoshanBhalaji/RandomPassword-Using-React/static/js/main.65aa655f.js.map",
+    "787.9f2bf4a8.chunk.js.map": "/RoshanBhalaji/RandomPassword-Using-React/static/js/787.9f2bf4a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5f088b.css",
+    "static/js/main.65aa655f.js"
+  ]
+}
